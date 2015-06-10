@@ -8,7 +8,7 @@ sendmail = require('sendmail')();
  
 /*sendmail({
     from: 'no-reply@yourdomain.com',
-    to: 'arthur.spitznagel@outlook.com',
+    to: 'youraddress@yourprovider.com',
     subject: 'test sendmail',
     content: 'Mail of test sendmail ',
   }, function(err, reply) {
